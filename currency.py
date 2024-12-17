@@ -1,0 +1,30 @@
+class Currency:
+    def get_available_list() -> list:
+        
+        return [
+            "AUD",
+            "AZN",
+            "BYN",
+            "CAD",
+            "CHF",
+            "CNY",
+            "CZK",
+            "DKK",
+            "EUR",
+            "GBP",
+            "GEL",
+            "HUF",
+            "ILS",
+            "JPY",
+            "KZT",
+            "MDL",
+            "NOK",
+            "PLN",
+            "SEK",
+            "SGD",
+            "TMT",
+            "TRY",
+            "USD",
+            "UZS",
+            "XAU",
+        ]
